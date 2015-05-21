@@ -82,7 +82,7 @@
             self.iphone5.image = [UIImage imageNamed:@"iphone 5.jpg"];
             
             
-             _t1.frame = CGRectMake(16, 123, 80, 21);
+            _t1.frame = CGRectMake(16, 123, 80, 21);
             _t2.frame = CGRectMake(16, 163, 80, 21);
             _t3.frame = CGRectMake(16, 203, 80, 21);
             _t4.frame = CGRectMake(16, 243, 80, 21);

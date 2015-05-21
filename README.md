@@ -1,2 +1,0 @@
-# AICPAPPS
-Apps for AICP
